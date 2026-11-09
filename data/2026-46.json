@@ -1,0 +1,482 @@
+{
+ "period": {
+  "from": "2026-11-03",
+  "to": "2026-11-09"
+ },
+ "generatedAt": "2026-11-09T17:11:55.207Z",
+ "totalNewEntries": 10573,
+ "days": [
+  {
+   "date": "2026-11-03",
+   "newEntries": 0
+  },
+  {
+   "date": "2026-11-04",
+   "newEntries": 0
+  },
+  {
+   "date": "2026-11-05",
+   "newEntries": 10491
+  },
+  {
+   "date": "2026-11-06",
+   "newEntries": 16
+  },
+  {
+   "date": "2026-11-07",
+   "newEntries": 58
+  },
+  {
+   "date": "2026-11-08",
+   "newEntries": 8
+  },
+  {
+   "date": "2026-11-09",
+   "newEntries": 0
+  }
+ ],
+ "byCountry": {
+  "US": {
+   "PEP_WD": 1823
+  },
+  "DE": {
+   "PEP_WD": 834
+  },
+  "TR": {
+   "PEP_WD": 710,
+   "OFAC_SDN": 2
+  },
+  "ES": {
+   "PEP_WD": 605
+  },
+  "BE": {
+   "PEP_WD": 387
+  },
+  "BG": {
+   "PEP_WD": 377
+  },
+  "NG": {
+   "PEP_WD": 332
+  },
+  "AT": {
+   "PEP_WD": 331
+  },
+  "KR": {
+   "PEP_WD": 317
+  },
+  "TH": {
+   "PEP_WD": 296
+  },
+  "IN": {
+   "PEP_WD": 266,
+   "OFAC_SDN": 12
+  },
+  "BD": {
+   "PEP_WD": 277
+  },
+  "HU": {
+   "PEP_WD": 261
+  },
+  "FI": {
+   "PEP_WD": 239
+  },
+  "MY": {
+   "PEP_WD": 216,
+   "OFAC_SDN": 2
+  },
+  "PL": {
+   "PEP_WD": 197
+  },
+  "NO": {
+   "PEP_WD": 175
+  },
+  "CM": {
+   "PEP_WD": 165
+  },
+  "NE": {
+   "PEP_WD": 157
+  },
+  "SI": {
+   "PEP_WD": 157
+  },
+  "EE": {
+   "PEP_WD": 121
+  },
+  "TW": {
+   "PEP_WD": 120
+  },
+  "NL": {
+   "PEP_WD": 118
+  },
+  "IL": {
+   "PEP_WD": 114
+  },
+  "GR": {
+   "PEP_WD": 101
+  },
+  "RU": {
+   "PEP_WD": 95,
+   "OFAC_SDN": 1
+  },
+  "MD": {
+   "PEP_WD": 95
+  },
+  "LV": {
+   "PEP_WD": 94
+  },
+  "GA": {
+   "PEP_WD": 86
+  },
+  "LT": {
+   "PEP_WD": 83
+  },
+  "AU": {
+   "PEP_WD": 82
+  },
+  "SG": {
+   "PEP_WD": 75,
+   "OFAC_SDN": 3
+  },
+  "LU": {
+   "PEP_WD": 64
+  },
+  "IR": {
+   "PEP_WD": 61
+  },
+  "NA": {
+   "PEP_WD": 60
+  },
+  "CY": {
+   "PEP_WD": 57
+  },
+  "BT": {
+   "PEP_WD": 42
+  },
+  "AM": {
+   "PEP_WD": 38
+  },
+  "CH": {
+   "PEP_WD": 36
+  },
+  "KE": {
+   "PEP_WD": 35
+  },
+  "ZA": {
+   "PEP_WD": 33
+  },
+  "PT": {
+   "PEP_WD": 32
+  },
+  "EG": {
+   "PEP_WD": 30
+  },
+  "KH": {
+   "PEP_WD": 5,
+   "OFAC_SDN": 25
+  },
+  "MZ": {
+   "PEP_WD": 29
+  },
+  "TG": {
+   "PEP_WD": 28
+  },
+  "MW": {
+   "PEP_WD": 28
+  },
+  "MC": {
+   "PEP_WD": 27
+  },
+  "TT": {
+   "PEP_WD": 23
+  },
+  "UG": {
+   "PEP_WD": 22
+  },
+  "AO": {
+   "PEP_WD": 22
+  },
+  "PG": {
+   "PEP_WD": 22
+  },
+  "DZ": {
+   "PEP_WD": 21
+  },
+  "NR": {
+   "PEP_WD": 21
+  },
+  "CN": {
+   "PEP_WD": 8,
+   "OFAC_SDN": 10
+  },
+  "SN": {
+   "PEP_WD": 18
+  },
+  "BY": {
+   "PEP_WD": 17
+  },
+  "CA": {
+   "PEP_WD": 9,
+   "OFAC_SDN": 8
+  },
+  "JM": {
+   "PEP_WD": 17
+  },
+  "MT": {
+   "PEP_WD": 17
+  },
+  "KZ": {
+   "PEP_WD": 16
+  },
+  "NZ": {
+   "PEP_WD": 16
+  },
+  "ZM": {
+   "PEP_WD": 15
+  },
+  "AZ": {
+   "PEP_WD": 14
+  },
+  "CD": {
+   "PEP_WD": 13
+  },
+  "GT": {
+   "PEP_WD": 13
+  },
+  "ID": {
+   "PEP_WD": 12
+  },
+  "MN": {
+   "PEP_WD": 12
+  },
+  "NP": {
+   "PEP_WD": 12
+  },
+  "TO": {
+   "PEP_WD": 12
+  },
+  "GE": {
+   "PEP_WD": 11
+  },
+  "CU": {
+   "PEP_WD": 4,
+   "OFAC_SDN": 7
+  },
+  "KN": {
+   "PEP_WD": 10
+  },
+  "BH": {
+   "PEP_WD": 9
+  },
+  "BA": {
+   "PEP_WD": 8
+  },
+  "RS": {
+   "PEP_WD": 8
+  },
+  "RW": {
+   "PEP_WD": 8
+  },
+  "FK": {
+   "PEP_WD": 8
+  },
+  "AL": {
+   "PEP_WD": 7
+  },
+  "FR": {
+   "PEP_WD": 7
+  },
+  "GB": {
+   "PEP_WD": 7
+  },
+  "FO": {
+   "PEP_WD": 7
+  },
+  "BZ": {
+   "PEP_WD": 6
+  },
+  "CI": {
+   "PEP_WD": 6
+  },
+  "BJ": {
+   "PEP_WD": 6
+  },
+  "EC": {
+   "PEP_WD": 6
+  },
+  "SK": {
+   "PEP_WD": 6
+  },
+  "TV": {
+   "PEP_WD": 6
+  },
+  "HR": {
+   "PEP_WD": 5
+  },
+  "SA": {
+   "PEP_WD": 5
+  },
+  "GH": {
+   "PEP_WD": 5
+  },
+  "LC": {
+   "PEP_WD": 4,
+   "OFAC_SDN": 1
+  },
+  "CG": {
+   "PEP_WD": 4
+  },
+  "LB": {
+   "PEP_WD": 4
+  },
+  "PK": {
+   "PEP_WD": 4
+  },
+  "DM": {
+   "PEP_WD": 4
+  },
+  "LK": {
+   "PEP_WD": 4
+  },
+  "GN": {
+   "PEP_WD": 3
+  },
+  "HN": {
+   "PEP_WD": 3
+  },
+  "KM": {
+   "PEP_WD": 3
+  },
+  "PA": {
+   "PEP_WD": 1,
+   "OFAC_SDN": 2
+  },
+  "TN": {
+   "PEP_WD": 3
+  },
+  "VN": {
+   "PEP_WD": 3
+  },
+  "SR": {
+   "PEP_WD": 3
+  },
+  "AD": {
+   "PEP_WD": 3
+  },
+  "BW": {
+   "PEP_WD": 3
+  },
+  "VG": {
+   "OFAC_SDN": 3
+  },
+  "KG": {
+   "PEP_WD": 2
+  },
+  "SS": {
+   "PEP_WD": 2
+  },
+  "TJ": {
+   "PEP_WD": 1,
+   "OFAC_SDN": 1
+  },
+  "AG": {
+   "PEP_WD": 2
+  },
+  "BS": {
+   "PEP_WD": 2
+  },
+  "LR": {
+   "PEP_WD": 2
+  },
+  "CK": {
+   "PEP_WD": 2
+  },
+  "SB": {
+   "PEP_WD": 2
+  },
+  "ST": {
+   "PEP_WD": 2
+  },
+  "MG": {
+   "OFAC_SDN": 1,
+   "PEP_WD": 1
+  },
+  "BI": {
+   "PEP_WD": 1
+  },
+  "IQ": {
+   "PEP_WD": 1
+  },
+  "KP": {
+   "PEP_WD": 1
+  },
+  "SO": {
+   "PEP_WD": 1
+  },
+  "BR": {
+   "PEP_WD": 1
+  },
+  "CR": {
+   "PEP_WD": 1
+  },
+  "FJ": {
+   "PEP_WD": 1
+  },
+  "GW": {
+   "PEP_WD": 1
+  },
+  "GY": {
+   "PEP_WD": 1
+  },
+  "MK": {
+   "PEP_WD": 1
+  },
+  "MV": {
+   "PEP_WD": 1
+  },
+  "ZW": {
+   "PEP_WD": 1
+  },
+  "AW": {
+   "PEP_WD": 1
+  },
+  "CW": {
+   "PEP_WD": 1
+  },
+  "IS": {
+   "PEP_WD": 1
+  },
+  "PR": {
+   "PEP_WD": 1
+  },
+  "SZ": {
+   "PEP_WD": 1
+  },
+  "HK": {
+   "OFAC_SDN": 1
+  },
+  "MU": {
+   "OFAC_SDN": 1
+  },
+  "VU": {
+   "OFAC_SDN": 1
+  }
+ },
+ "byList": {
+  "PEP_WD": 10492,
+  "OFAC_SDN": 81
+ },
+ "lists": {
+  "PEP_WD": {
+   "name": "Possible politically exposed persons (Wikidata)",
+   "url": "https://www.wikidata.org/"
+  },
+  "OFAC_SDN": {
+   "name": "OFAC Specially Designated Nationals (SDN) List",
+   "url": "https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+  }
+ },
+ "source": "Daily comparison of the official sanctions lists monitored by Unicorn Intelligence. Aggregated counts only, no names.",
+ "license": "CC BY 4.0, attribution: Unicorn Intelligence (https://intel.unicornprivate.com)",
+ "page": "https://intel.unicornprivate.com/sanctions/today/",
+ "docs": "https://intel.unicornprivate.com/docs#public-sanctions-weekly"
+}

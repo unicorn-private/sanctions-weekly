@@ -1,0 +1,1064 @@
+{
+ "week": "2026-46",
+ "previousWeek": "2026-45",
+ "period": {
+  "from": "2026-11-03",
+  "to": "2026-11-09"
+ },
+ "totalNewEntries": 10573,
+ "previousTotalNewEntries": 0,
+ "change": 10573,
+ "rows": [
+  {
+   "country": "US",
+   "list": "PEP_WD",
+   "thisWeek": 1823,
+   "previousWeek": 0,
+   "change": 1823
+  },
+  {
+   "country": "DE",
+   "list": "PEP_WD",
+   "thisWeek": 834,
+   "previousWeek": 0,
+   "change": 834
+  },
+  {
+   "country": "TR",
+   "list": "PEP_WD",
+   "thisWeek": 710,
+   "previousWeek": 0,
+   "change": 710
+  },
+  {
+   "country": "ES",
+   "list": "PEP_WD",
+   "thisWeek": 605,
+   "previousWeek": 0,
+   "change": 605
+  },
+  {
+   "country": "BE",
+   "list": "PEP_WD",
+   "thisWeek": 387,
+   "previousWeek": 0,
+   "change": 387
+  },
+  {
+   "country": "BG",
+   "list": "PEP_WD",
+   "thisWeek": 377,
+   "previousWeek": 0,
+   "change": 377
+  },
+  {
+   "country": "NG",
+   "list": "PEP_WD",
+   "thisWeek": 332,
+   "previousWeek": 0,
+   "change": 332
+  },
+  {
+   "country": "AT",
+   "list": "PEP_WD",
+   "thisWeek": 331,
+   "previousWeek": 0,
+   "change": 331
+  },
+  {
+   "country": "KR",
+   "list": "PEP_WD",
+   "thisWeek": 317,
+   "previousWeek": 0,
+   "change": 317
+  },
+  {
+   "country": "TH",
+   "list": "PEP_WD",
+   "thisWeek": 296,
+   "previousWeek": 0,
+   "change": 296
+  },
+  {
+   "country": "BD",
+   "list": "PEP_WD",
+   "thisWeek": 277,
+   "previousWeek": 0,
+   "change": 277
+  },
+  {
+   "country": "IN",
+   "list": "PEP_WD",
+   "thisWeek": 266,
+   "previousWeek": 0,
+   "change": 266
+  },
+  {
+   "country": "HU",
+   "list": "PEP_WD",
+   "thisWeek": 261,
+   "previousWeek": 0,
+   "change": 261
+  },
+  {
+   "country": "FI",
+   "list": "PEP_WD",
+   "thisWeek": 239,
+   "previousWeek": 0,
+   "change": 239
+  },
+  {
+   "country": "MY",
+   "list": "PEP_WD",
+   "thisWeek": 216,
+   "previousWeek": 0,
+   "change": 216
+  },
+  {
+   "country": "PL",
+   "list": "PEP_WD",
+   "thisWeek": 197,
+   "previousWeek": 0,
+   "change": 197
+  },
+  {
+   "country": "NO",
+   "list": "PEP_WD",
+   "thisWeek": 175,
+   "previousWeek": 0,
+   "change": 175
+  },
+  {
+   "country": "CM",
+   "list": "PEP_WD",
+   "thisWeek": 165,
+   "previousWeek": 0,
+   "change": 165
+  },
+  {
+   "country": "NE",
+   "list": "PEP_WD",
+   "thisWeek": 157,
+   "previousWeek": 0,
+   "change": 157
+  },
+  {
+   "country": "SI",
+   "list": "PEP_WD",
+   "thisWeek": 157,
+   "previousWeek": 0,
+   "change": 157
+  },
+  {
+   "country": "EE",
+   "list": "PEP_WD",
+   "thisWeek": 121,
+   "previousWeek": 0,
+   "change": 121
+  },
+  {
+   "country": "TW",
+   "list": "PEP_WD",
+   "thisWeek": 120,
+   "previousWeek": 0,
+   "change": 120
+  },
+  {
+   "country": "NL",
+   "list": "PEP_WD",
+   "thisWeek": 118,
+   "previousWeek": 0,
+   "change": 118
+  },
+  {
+   "country": "IL",
+   "list": "PEP_WD",
+   "thisWeek": 114,
+   "previousWeek": 0,
+   "change": 114
+  },
+  {
+   "country": "GR",
+   "list": "PEP_WD",
+   "thisWeek": 101,
+   "previousWeek": 0,
+   "change": 101
+  },
+  {
+   "country": "MD",
+   "list": "PEP_WD",
+   "thisWeek": 95,
+   "previousWeek": 0,
+   "change": 95
+  },
+  {
+   "country": "RU",
+   "list": "PEP_WD",
+   "thisWeek": 95,
+   "previousWeek": 0,
+   "change": 95
+  },
+  {
+   "country": "LV",
+   "list": "PEP_WD",
+   "thisWeek": 94,
+   "previousWeek": 0,
+   "change": 94
+  },
+  {
+   "country": "GA",
+   "list": "PEP_WD",
+   "thisWeek": 86,
+   "previousWeek": 0,
+   "change": 86
+  },
+  {
+   "country": "LT",
+   "list": "PEP_WD",
+   "thisWeek": 83,
+   "previousWeek": 0,
+   "change": 83
+  },
+  {
+   "country": "AU",
+   "list": "PEP_WD",
+   "thisWeek": 82,
+   "previousWeek": 0,
+   "change": 82
+  },
+  {
+   "country": "SG",
+   "list": "PEP_WD",
+   "thisWeek": 75,
+   "previousWeek": 0,
+   "change": 75
+  },
+  {
+   "country": "LU",
+   "list": "PEP_WD",
+   "thisWeek": 64,
+   "previousWeek": 0,
+   "change": 64
+  },
+  {
+   "country": "IR",
+   "list": "PEP_WD",
+   "thisWeek": 61,
+   "previousWeek": 0,
+   "change": 61
+  },
+  {
+   "country": "NA",
+   "list": "PEP_WD",
+   "thisWeek": 60,
+   "previousWeek": 0,
+   "change": 60
+  },
+  {
+   "country": "CY",
+   "list": "PEP_WD",
+   "thisWeek": 57,
+   "previousWeek": 0,
+   "change": 57
+  },
+  {
+   "country": "BT",
+   "list": "PEP_WD",
+   "thisWeek": 42,
+   "previousWeek": 0,
+   "change": 42
+  },
+  {
+   "country": "AM",
+   "list": "PEP_WD",
+   "thisWeek": 38,
+   "previousWeek": 0,
+   "change": 38
+  },
+  {
+   "country": "CH",
+   "list": "PEP_WD",
+   "thisWeek": 36,
+   "previousWeek": 0,
+   "change": 36
+  },
+  {
+   "country": "KE",
+   "list": "PEP_WD",
+   "thisWeek": 35,
+   "previousWeek": 0,
+   "change": 35
+  },
+  {
+   "country": "ZA",
+   "list": "PEP_WD",
+   "thisWeek": 33,
+   "previousWeek": 0,
+   "change": 33
+  },
+  {
+   "country": "PT",
+   "list": "PEP_WD",
+   "thisWeek": 32,
+   "previousWeek": 0,
+   "change": 32
+  },
+  {
+   "country": "EG",
+   "list": "PEP_WD",
+   "thisWeek": 30,
+   "previousWeek": 0,
+   "change": 30
+  },
+  {
+   "country": "MZ",
+   "list": "PEP_WD",
+   "thisWeek": 29,
+   "previousWeek": 0,
+   "change": 29
+  },
+  {
+   "country": "MW",
+   "list": "PEP_WD",
+   "thisWeek": 28,
+   "previousWeek": 0,
+   "change": 28
+  },
+  {
+   "country": "TG",
+   "list": "PEP_WD",
+   "thisWeek": 28,
+   "previousWeek": 0,
+   "change": 28
+  },
+  {
+   "country": "MC",
+   "list": "PEP_WD",
+   "thisWeek": 27,
+   "previousWeek": 0,
+   "change": 27
+  },
+  {
+   "country": "KH",
+   "list": "OFAC_SDN",
+   "thisWeek": 25,
+   "previousWeek": 0,
+   "change": 25
+  },
+  {
+   "country": "TT",
+   "list": "PEP_WD",
+   "thisWeek": 23,
+   "previousWeek": 0,
+   "change": 23
+  },
+  {
+   "country": "AO",
+   "list": "PEP_WD",
+   "thisWeek": 22,
+   "previousWeek": 0,
+   "change": 22
+  },
+  {
+   "country": "PG",
+   "list": "PEP_WD",
+   "thisWeek": 22,
+   "previousWeek": 0,
+   "change": 22
+  },
+  {
+   "country": "UG",
+   "list": "PEP_WD",
+   "thisWeek": 22,
+   "previousWeek": 0,
+   "change": 22
+  },
+  {
+   "country": "DZ",
+   "list": "PEP_WD",
+   "thisWeek": 21,
+   "previousWeek": 0,
+   "change": 21
+  },
+  {
+   "country": "NR",
+   "list": "PEP_WD",
+   "thisWeek": 21,
+   "previousWeek": 0,
+   "change": 21
+  },
+  {
+   "country": "SN",
+   "list": "PEP_WD",
+   "thisWeek": 18,
+   "previousWeek": 0,
+   "change": 18
+  },
+  {
+   "country": "BY",
+   "list": "PEP_WD",
+   "thisWeek": 17,
+   "previousWeek": 0,
+   "change": 17
+  },
+  {
+   "country": "JM",
+   "list": "PEP_WD",
+   "thisWeek": 17,
+   "previousWeek": 0,
+   "change": 17
+  },
+  {
+   "country": "MT",
+   "list": "PEP_WD",
+   "thisWeek": 17,
+   "previousWeek": 0,
+   "change": 17
+  },
+  {
+   "country": "KZ",
+   "list": "PEP_WD",
+   "thisWeek": 16,
+   "previousWeek": 0,
+   "change": 16
+  },
+  {
+   "country": "NZ",
+   "list": "PEP_WD",
+   "thisWeek": 16,
+   "previousWeek": 0,
+   "change": 16
+  },
+  {
+   "country": "ZM",
+   "list": "PEP_WD",
+   "thisWeek": 15,
+   "previousWeek": 0,
+   "change": 15
+  },
+  {
+   "country": "AZ",
+   "list": "PEP_WD",
+   "thisWeek": 14,
+   "previousWeek": 0,
+   "change": 14
+  },
+  {
+   "country": "CD",
+   "list": "PEP_WD",
+   "thisWeek": 13,
+   "previousWeek": 0,
+   "change": 13
+  },
+  {
+   "country": "GT",
+   "list": "PEP_WD",
+   "thisWeek": 13,
+   "previousWeek": 0,
+   "change": 13
+  },
+  {
+   "country": "ID",
+   "list": "PEP_WD",
+   "thisWeek": 12,
+   "previousWeek": 0,
+   "change": 12
+  },
+  {
+   "country": "IN",
+   "list": "OFAC_SDN",
+   "thisWeek": 12,
+   "previousWeek": 0,
+   "change": 12
+  },
+  {
+   "country": "MN",
+   "list": "PEP_WD",
+   "thisWeek": 12,
+   "previousWeek": 0,
+   "change": 12
+  },
+  {
+   "country": "NP",
+   "list": "PEP_WD",
+   "thisWeek": 12,
+   "previousWeek": 0,
+   "change": 12
+  },
+  {
+   "country": "TO",
+   "list": "PEP_WD",
+   "thisWeek": 12,
+   "previousWeek": 0,
+   "change": 12
+  },
+  {
+   "country": "GE",
+   "list": "PEP_WD",
+   "thisWeek": 11,
+   "previousWeek": 0,
+   "change": 11
+  },
+  {
+   "country": "CN",
+   "list": "OFAC_SDN",
+   "thisWeek": 10,
+   "previousWeek": 0,
+   "change": 10
+  },
+  {
+   "country": "KN",
+   "list": "PEP_WD",
+   "thisWeek": 10,
+   "previousWeek": 0,
+   "change": 10
+  },
+  {
+   "country": "BH",
+   "list": "PEP_WD",
+   "thisWeek": 9,
+   "previousWeek": 0,
+   "change": 9
+  },
+  {
+   "country": "CA",
+   "list": "PEP_WD",
+   "thisWeek": 9,
+   "previousWeek": 0,
+   "change": 9
+  },
+  {
+   "country": "BA",
+   "list": "PEP_WD",
+   "thisWeek": 8,
+   "previousWeek": 0,
+   "change": 8
+  },
+  {
+   "country": "CA",
+   "list": "OFAC_SDN",
+   "thisWeek": 8,
+   "previousWeek": 0,
+   "change": 8
+  },
+  {
+   "country": "CN",
+   "list": "PEP_WD",
+   "thisWeek": 8,
+   "previousWeek": 0,
+   "change": 8
+  },
+  {
+   "country": "FK",
+   "list": "PEP_WD",
+   "thisWeek": 8,
+   "previousWeek": 0,
+   "change": 8
+  },
+  {
+   "country": "RS",
+   "list": "PEP_WD",
+   "thisWeek": 8,
+   "previousWeek": 0,
+   "change": 8
+  },
+  {
+   "country": "RW",
+   "list": "PEP_WD",
+   "thisWeek": 8,
+   "previousWeek": 0,
+   "change": 8
+  },
+  {
+   "country": "AL",
+   "list": "PEP_WD",
+   "thisWeek": 7,
+   "previousWeek": 0,
+   "change": 7
+  },
+  {
+   "country": "CU",
+   "list": "OFAC_SDN",
+   "thisWeek": 7,
+   "previousWeek": 0,
+   "change": 7
+  },
+  {
+   "country": "FO",
+   "list": "PEP_WD",
+   "thisWeek": 7,
+   "previousWeek": 0,
+   "change": 7
+  },
+  {
+   "country": "FR",
+   "list": "PEP_WD",
+   "thisWeek": 7,
+   "previousWeek": 0,
+   "change": 7
+  },
+  {
+   "country": "GB",
+   "list": "PEP_WD",
+   "thisWeek": 7,
+   "previousWeek": 0,
+   "change": 7
+  },
+  {
+   "country": "BJ",
+   "list": "PEP_WD",
+   "thisWeek": 6,
+   "previousWeek": 0,
+   "change": 6
+  },
+  {
+   "country": "BZ",
+   "list": "PEP_WD",
+   "thisWeek": 6,
+   "previousWeek": 0,
+   "change": 6
+  },
+  {
+   "country": "CI",
+   "list": "PEP_WD",
+   "thisWeek": 6,
+   "previousWeek": 0,
+   "change": 6
+  },
+  {
+   "country": "EC",
+   "list": "PEP_WD",
+   "thisWeek": 6,
+   "previousWeek": 0,
+   "change": 6
+  },
+  {
+   "country": "SK",
+   "list": "PEP_WD",
+   "thisWeek": 6,
+   "previousWeek": 0,
+   "change": 6
+  },
+  {
+   "country": "TV",
+   "list": "PEP_WD",
+   "thisWeek": 6,
+   "previousWeek": 0,
+   "change": 6
+  },
+  {
+   "country": "GH",
+   "list": "PEP_WD",
+   "thisWeek": 5,
+   "previousWeek": 0,
+   "change": 5
+  },
+  {
+   "country": "HR",
+   "list": "PEP_WD",
+   "thisWeek": 5,
+   "previousWeek": 0,
+   "change": 5
+  },
+  {
+   "country": "KH",
+   "list": "PEP_WD",
+   "thisWeek": 5,
+   "previousWeek": 0,
+   "change": 5
+  },
+  {
+   "country": "SA",
+   "list": "PEP_WD",
+   "thisWeek": 5,
+   "previousWeek": 0,
+   "change": 5
+  },
+  {
+   "country": "CG",
+   "list": "PEP_WD",
+   "thisWeek": 4,
+   "previousWeek": 0,
+   "change": 4
+  },
+  {
+   "country": "CU",
+   "list": "PEP_WD",
+   "thisWeek": 4,
+   "previousWeek": 0,
+   "change": 4
+  },
+  {
+   "country": "DM",
+   "list": "PEP_WD",
+   "thisWeek": 4,
+   "previousWeek": 0,
+   "change": 4
+  },
+  {
+   "country": "LB",
+   "list": "PEP_WD",
+   "thisWeek": 4,
+   "previousWeek": 0,
+   "change": 4
+  },
+  {
+   "country": "LC",
+   "list": "PEP_WD",
+   "thisWeek": 4,
+   "previousWeek": 0,
+   "change": 4
+  },
+  {
+   "country": "LK",
+   "list": "PEP_WD",
+   "thisWeek": 4,
+   "previousWeek": 0,
+   "change": 4
+  },
+  {
+   "country": "PK",
+   "list": "PEP_WD",
+   "thisWeek": 4,
+   "previousWeek": 0,
+   "change": 4
+  },
+  {
+   "country": "AD",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "BW",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "GN",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "HN",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "KM",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "SG",
+   "list": "OFAC_SDN",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "SR",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "TN",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "VG",
+   "list": "OFAC_SDN",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "VN",
+   "list": "PEP_WD",
+   "thisWeek": 3,
+   "previousWeek": 0,
+   "change": 3
+  },
+  {
+   "country": "AG",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "BS",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "CK",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "KG",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "LR",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "MY",
+   "list": "OFAC_SDN",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "PA",
+   "list": "OFAC_SDN",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "SB",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "SS",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "ST",
+   "list": "PEP_WD",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "TR",
+   "list": "OFAC_SDN",
+   "thisWeek": 2,
+   "previousWeek": 0,
+   "change": 2
+  },
+  {
+   "country": "AW",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "BI",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "BR",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "CR",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "CW",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "FJ",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "GW",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "GY",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "HK",
+   "list": "OFAC_SDN",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "IQ",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "IS",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "KP",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "LC",
+   "list": "OFAC_SDN",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "MG",
+   "list": "OFAC_SDN",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "MG",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "MK",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "MU",
+   "list": "OFAC_SDN",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "MV",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "PA",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "PR",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "RU",
+   "list": "OFAC_SDN",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "SO",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "SZ",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "TJ",
+   "list": "OFAC_SDN",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "TJ",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "VU",
+   "list": "OFAC_SDN",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  },
+  {
+   "country": "ZW",
+   "list": "PEP_WD",
+   "thisWeek": 1,
+   "previousWeek": 0,
+   "change": 1
+  }
+ ],
+ "license": "CC BY 4.0, attribution: Unicorn Intelligence (https://intel.unicornprivate.com)"
+}
