@@ -1,0 +1,151 @@
+{
+ "period": {
+  "from": "2026-11-17",
+  "to": "2026-11-23"
+ },
+ "generatedAt": "2026-11-23T18:59:35.038Z",
+ "totalNewEntries": 139,
+ "days": [
+  {
+   "date": "2026-11-17",
+   "newEntries": 1
+  },
+  {
+   "date": "2026-11-18",
+   "newEntries": 10
+  },
+  {
+   "date": "2026-11-19",
+   "newEntries": 0
+  },
+  {
+   "date": "2026-11-20",
+   "newEntries": 66
+  },
+  {
+   "date": "2026-11-21",
+   "newEntries": 48
+  },
+  {
+   "date": "2026-11-22",
+   "newEntries": 6
+  },
+  {
+   "date": "2026-11-23",
+   "newEntries": 8
+  }
+ ],
+ "byCountry": {
+  "FJ": {
+   "PEP_WD": 29
+  },
+  "RU": {
+   "EU": 27,
+   "PEP_WD": 2
+  },
+  "CA": {
+   "OFAC_SDN": 13
+  },
+  "DE": {
+   "PEP_WD": 8
+  },
+  "UA": {
+   "EU": 7
+  },
+  "PS": {
+   "UK": 6
+  },
+  "IT": {
+   "OFAC_SDN": 5
+  },
+  "LB": {
+   "OFAC_SDN": 5
+  },
+  "NL": {
+   "PEP_WD": 5
+  },
+  "IL": {
+   "UK": 2,
+   "PEP_WD": 2
+  },
+  "US": {
+   "PEP_WD": 4
+  },
+  "IR": {
+   "OFAC_SDN": 4
+  },
+  "KH": {
+   "OFAC_SDN": 3
+  },
+  "AU": {
+   "OFAC_SDN": 2
+  },
+  "MM": {
+   "OFAC_SDN": 2
+  },
+  "NZ": {
+   "OFAC_SDN": 2
+  },
+  "KZ": {
+   "PEP_WD": 1
+  },
+  "RS": {
+   "PEP_WD": 1
+  },
+  "CN": {
+   "OFAC_SDN": 1
+  },
+  "ES": {
+   "OFAC_SDN": 1
+  },
+  "JP": {
+   "OFAC_SDN": 1
+  },
+  "TR": {
+   "OFAC_SDN": 1
+  },
+  "CH": {
+   "PEP_WD": 1
+  },
+  "KP": {
+   "EU": 1
+  },
+  "VA": {
+   "PEP_WD": 1
+  },
+  "TH": {
+   "PEP_WD": 1
+  },
+  "GN": {
+   "PEP_WD": 1
+  }
+ },
+ "byList": {
+  "PEP_WD": 56,
+  "UK": 8,
+  "OFAC_SDN": 40,
+  "EU": 35
+ },
+ "lists": {
+  "PEP_WD": {
+   "name": "Possible politically exposed persons (Wikidata)",
+   "url": "https://www.wikidata.org/"
+  },
+  "UK": {
+   "name": "UK Sanctions List",
+   "url": "https://www.gov.uk/government/publications/the-uk-sanctions-list"
+  },
+  "OFAC_SDN": {
+   "name": "OFAC Specially Designated Nationals (SDN) List",
+   "url": "https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+  },
+  "EU": {
+   "name": "EU Consolidated Financial Sanctions List",
+   "url": "https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions"
+  }
+ },
+ "source": "Daily comparison of the official sanctions lists monitored by Unicorn Intelligence. Aggregated counts only, no names.",
+ "license": "CC BY 4.0, attribution: Unicorn Intelligence (https://intel.unicornprivate.com)",
+ "page": "https://intel.unicornprivate.com/sanctions/today/",
+ "docs": "https://intel.unicornprivate.com/docs#public-sanctions-weekly"
+}
